@@ -1,0 +1,7 @@
+{
+    "Factor de friccion cinetica":0.75,
+    "Coeficiente de restitucion":0.995,
+    "Tecnica EDO (Euler|Euler modificado|Euler mejorado|Runge Kutta 4)": "Runge Kutta 4",
+    "HUD (On|Off)": "On",
+    "Mapa calor luz (On|Off)": "On"
+}
